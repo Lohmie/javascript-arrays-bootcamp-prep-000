@@ -41,9 +41,5 @@ function removeElementFromEndOfArray(array){
 }
 
 
-  return array.unshift(element);
-}
-
-addElementToBeginningOfArray(array, "foo");
 
 
